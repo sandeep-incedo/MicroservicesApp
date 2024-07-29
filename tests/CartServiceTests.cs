@@ -137,7 +137,7 @@ namespace cartservice.tests
                 Item = new CartItem
                 {
                     ProductId = "1",
-                    Quantity = 1
+                    Quantity = 2
                 }
             };
 
